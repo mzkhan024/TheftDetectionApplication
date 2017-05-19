@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Theft Detection Application</string>
+    <string name="title_activity_register">Register</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+</resources>
